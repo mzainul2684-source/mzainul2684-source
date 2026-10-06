@@ -1,66 +1,80 @@
-# Hi, I'm M. Zainul Rohman 👋
+# Hi, I'm M. Zainul Karohman 👋
 
-I am an aspiring Data Scientist with an interest in Natural Language Processing, machine learning, and data analysis. I enjoy working with datasets, building classification models, documenting projects clearly, and turning data into useful insights.
+I am a 5th-semester student at Telkom University with an interest in Data Science, Data Analysis, and Machine Learning.
 
-Currently, I am focusing on strengthening my skills in Python, machine learning, NLP, and end-to-end data science projects.
+I enjoy working with data, exploring patterns, building machine learning models, and documenting projects in a clear and structured way. Currently, I am focusing on strengthening my skills through hands-on data science projects and practical learning experiences.
 
 ## About Me
 
-* Aspiring Data Scientist
-* Interested in Natural Language Processing and text classification
-* Building data science and machine learning portfolio projects
-* Experienced in small web and API-based projects
-* Learning to write cleaner code, better documentation, and more reproducible projects
+- 🎓 5th-semester student at Telkom University
+- 📊 Interested in Data Science, Data Analysis, and Machine Learning
+- 🐍 Working primarily with Python for data analysis and modeling
+- 📚 Continuously improving my SQL and machine learning skills
+- 💻 Building practical data science projects for my portfolio
 
-## Focus Areas
+## Featured Project
 
-* Data Science
-* Machine Learning
-* Natural Language Processing
-* Text Classification
-* Data Analysis
-* Model Evaluation
-* Python Programming
+### Credit Risk Prediction
+**Project-Based Virtual Intern: Data Scientist, ID/X Partners x Rakamin Academy**
 
-## Tech Stack
+Developed a machine learning project to predict credit risk using historical loan data.
 
-### Data Science & Machine Learning
+Main activities:
+- Data understanding and data cleaning
+- Exploratory Data Analysis (EDA)
+- Data preprocessing
+- Logistic Regression and Random Forest modeling
+- Hyperparameter tuning
+- Model evaluation using classification metrics
 
-* Python
-* Pandas
-* NumPy
-* Scikit-learn
-* PyTorch
-* Transformers
-* Jupyter Notebook
+🔗 [View Project](https://github.com/mzainul2684-source/credit-risk-prediction-idx-partners)
 
-### Web & Backend Development
+## Skills
 
-* Flask
-* MySQL
-* HTML
-* CSS
-* JavaScript
-* REST API
+### Data Science
+- Python
+- SQL
+- Pandas
+- NumPy
+- Scikit-learn
+- Exploratory Data Analysis
+- Data Preprocessing
+- Machine Learning
+- Model Evaluation
+- Data Visualization
 
 ### Tools
+- Jupyter Notebook
+- Google Colab
+- Git
+- GitHub
+- Visual Studio Code
+- Microsoft Excel
 
-* Git
-* GitHub
-* Google Colab
-* Visual Studio Code
-* Vercel
+### Additional Skills
+- Flask
+- MySQL
+- REST API
+- HTML
+- CSS
+- JavaScript
 
-## Current Learning Goals
+## Currently Learning
 
-* Build more data analysis and machine learning projects
-* Improve model evaluation using validation split, confusion matrix, precision, recall, and F1-score
-* Create dashboard and visualization projects
-* Improve SQL skills for data analysis
-* Build an end-to-end data science portfolio website
+- Improving SQL for data analysis
+- Building more end-to-end data science projects
+- Improving machine learning model evaluation
+- Developing better data visualizations
+- Learning more about Natural Language Processing
+
+## GitHub Portfolio
+
+Here you can find several projects related to data science, machine learning, programming, and software development.
+
+📌 My current main portfolio project:
+
+[Credit Risk Prediction - ID/X Partners](https://github.com/mzainul2684-source/credit-risk-prediction-idx-partners)
 
 ## Contact
 
-* GitHub: [mzainul2684-source](https://github.com/mzainul2684-source)
-* LinkedIn: Coming soon
-* Portfolio Website: Coming soon
+- GitHub: [mzainul2684-source](https://github.com/mzainul2684-source)
